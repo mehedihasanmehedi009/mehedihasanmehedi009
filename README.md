@@ -1,5 +1,11 @@
-  <h1 align="center">Hi 👋, I'm <span style="color:#4ade80;">Mehedi Hasan</span></h1>
+ <h1 align="center">Hi 👋, I'm <span style="color:#4ade80;">Mehedi Hasan</span></h1>
 <h3 align="center">MERN Stack Developer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4ADE80&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Full+Stack+JavaScript+Developer;React+%7C+Node+%7C+Express+%7C+MongoDB;Passionate+Programmer+%26+Learner" alt="Typing SVG" />
+</p>
+
+
 🚀 Passionate Full-Stack Developer specializing in **MongoDB, Express.js, React.js, and Node.js**.  
 I love building clean, scalable, and modern web applications that deliver great user experiences.
 
@@ -11,9 +17,6 @@ I specialize in building **modern, scalable, and responsive web applications** u
 
 I love writing **clean, maintainable code** and continuously learning new technologies to improve my skills.  
 I enjoy collaborating on interesting projects and contributing to **open-source communities**.  
-
-📫 **Reach me at:**  mehedihasanmehedi099@gmail.com  
-🌱 **Currently learning:** Cloud, DevOps, and advanced backend architectures
 
 ---
 
@@ -41,11 +44,30 @@ I enjoy collaborating on interesting projects and contributing to **open-source 
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mehedihasanmehedi009&show_icons=true&theme=radical" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedihasanmehedi009&layout=compact&theme=radical" />
-</p>
+# 📊 GitHub Analytics
+
+<table align="center">
+<tr>
+<td align="center">
+
+### 🎨 Top Languages  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedihasanmehedi009&layout=compact&theme=react&hide_border=true" />
+
+</td>
+<td align="center">
+
+### 📈 GitHub Stats  
+<img src="https://github-readme-stats.vercel.app/api?username=mehedihasanmehedi009&show_icons=true&theme=react&hide_border=true" />
+
+</td>
+<td align="center">
+
+### 🔥 GitHub Streak  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mehedihasanmehedi009&theme=react&hide_border=true" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -59,4 +81,4 @@ I enjoy collaborating on interesting projects and contributing to **open-source 
 ## 📫 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehedihasan)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white)](https://mehedihasan.dev)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehedihasanmehedi099@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehedihasanmehedi099@gmail.com)  
