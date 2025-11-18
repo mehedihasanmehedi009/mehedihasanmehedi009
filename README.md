@@ -12,7 +12,7 @@ I specialize in building **modern, scalable, and responsive web applications** u
 I love writing **clean, maintainable code** and continuously learning new technologies to improve my skills.  
 I enjoy collaborating on interesting projects and contributing to **open-source communities**.  
 
-📫 **Reach me at:** mehedihasanmehedi009@example.com  
+📫 **Reach me at:**  mehedihasanmehedi099@gmail.com  
 🌱 **Currently learning:** Cloud, DevOps, and advanced backend architectures
 
 ---
@@ -59,4 +59,4 @@ I enjoy collaborating on interesting projects and contributing to **open-source 
 ## 📫 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehedihasan)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white)](https://mehedihasan.dev)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehedihasanmehedi009@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto: mehedihasanmehedi099@gmail.com)
