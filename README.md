@@ -1,6 +1,5 @@
  <h1 align="center">Hi 👋, I'm <span style="color:#4ade80;">Mehedi Hasan</span></h1>
-<h3 align="center">MERN Stack Developer</h3>
-
+ 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4ADE80&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Full+Stack+JavaScript+Developer;React+%7C+Node+%7C+Express+%7C+MongoDB;Passionate+Programmer+%26+Learner" alt="Typing SVG" />
 </p>
@@ -70,14 +69,6 @@ I enjoy collaborating on interesting projects and contributing to **open-source 
 </table>
 
 ---
-
-## 🚀 Top Projects
-- 💼 [Parcel Delivery App](https://github.com/mehedihasanmehedi009/parcel-delivery-app) – Track parcels in real-time  
-- 🧩 [Portfolio Website](https://github.com/mehedihasanmehedi009/portfolio) – My personal portfolio site  
-- ⚙️ [Booking System](https://github.com/mehedihasanmehedi009/booking-system) – Fast and secure booking system  
-
----
-
 ## 📫 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehedihasan)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white)](https://mehedihasan.dev)  
