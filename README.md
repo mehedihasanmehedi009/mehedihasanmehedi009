@@ -1,12 +1,15 @@
- <!-- 3D Animated Banner -->
+ <!-- 🔥 Custom MERN Banner – Add ONLY On Top of Your README.md -->
+ 
+
+<!-- 3D Animated Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Mehedi-Animated/3d-banner/main/dev-3d.gif" width="600px" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Mehedi Hasan</h1>
 
- <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF6EC7,4ADE80,38B2AC&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Full+Stack+JavaScript+Developer;React+%7C+Node+%7C+Express+%7C+MongoDB;Passionate+Programmer+%26+Learner" alt="Animated Typing SVG with Colors" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF6EC7,4ADE80,38B2AC&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Full+Stack+JavaScript+Developer;React+%7C+Node+%7C+Express+%7C+MongoDB;Passionate+Programmer+%26+Learner" />
 </p>
 
 
